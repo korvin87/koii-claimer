@@ -1,9 +1,11 @@
-# Requirements
+# Script for claiming Koii rewards from VPS node
+
+## Requirements
 expect package
 
 Installation: apt install expect
 
-# Usage
+## Usage
 
 Adjust varibles WALLET_PATH, TASK_ID, STAKE_POT_ACCOUNT, BENEFICIARY_ACCOUNT, CLAIMER_WALLET_PATH
 
